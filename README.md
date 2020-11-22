@@ -24,3 +24,7 @@ run node index.js in your terminal
 
 <a href="https://drive.google.com/file/d/1xof3Sjnkpz4tUweaZe_-0K_bSaG6yULT/view">Demonstration Video</a>
 
+# Questions
+
+Send all questions to my email: lilyhafoka.du@gmail.com
+
